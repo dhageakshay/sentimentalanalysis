@@ -1,4 +1,4 @@
-# sentimental Analysis
+# Sentimental Analysis
 Machine Learning Project on Sentimental Analysis of Twitter Data using R-Studio
 
 Execution sequence
